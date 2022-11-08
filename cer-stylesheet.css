@@ -1,0 +1,74 @@
+* {
+    font-family: 'SuisseRegular';
+    box-sizing: border-box;
+}
+
+body {
+    width: 100%;
+    height: 600px;
+    background-color: white;
+    margin-top: 100px;
+}
+
+table {
+    display: flex;
+    justify-content: space-between;
+    align-items: right;
+    text-align: center;
+    margin-top: 0;
+    margin: 0px 10px;
+    box-sizing: border-box;
+    padding: 5px 10px;
+}
+
+header h2 {
+    text-transform: uppercase;
+    font-size: 60px;
+    color: #362e2e;
+    text-align: center;
+    margin-top: 100px;
+    margin-bottom: 120px;
+}
+
+.left-side {
+    width: 80%;
+}
+
+.certi {
+    margin-bottom: 150px;
+    padding-left: 30px;
+}
+
+.dsd {
+    margin-top: 250px;
+}
+
+.volunteer {
+    margin-top: 210px;
+}
+
+h5 {
+    font-size: 32px;
+    margin-bottom: 40px;
+}
+
+.certi p {
+    font-size: 20px;
+    line-height: 30px;
+}
+
+.cer-pic img {
+    margin-bottom: 100px;
+}
+
+#volunteer {
+    margin-top: 70px;
+}
+
+#musical {
+    margin-top: 20px;
+}
+
+.musical h5 {
+    margin-top: 100px;
+}
